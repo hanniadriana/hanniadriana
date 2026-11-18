@@ -17,8 +17,8 @@ So far I've been learning:
 <ul>
   <li>📱 Kotlin for native Android development</li>
   <li>🌐 Front-end development and frameworks, through my coursework</li>
-  <li>🌦️ Climora, a weather app I made for my front-end subject</li>
-  <li>🎮 Godot, which I used to take part in the 5th UMPSA × HUAWEI GameCenter Mobile App Competition 2026</li>
+<li>🌦️ <a href="https://github.com/hanniadriana/CLIMORA-FRONT-END-">Climora</a>, a weather app I made for my front-end subject</li>  <li>🎮 Godot, which I used to take part in the 5th UMPSA × HUAWEI GameCenter Mobile App Competition 2026</li>
+  <li>🎬 <a href="https://github.com/hanniadriana/movie-wishlist-csf3133">Movie website</a>, a group project built with HTML</li>
   <li>🌱 I enjoy learning new things and improving step by step</li>
 </ul>
 

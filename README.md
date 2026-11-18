@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="desk.gif" alt="Pixel art of a cozy desk with a laptop and cats" width="600"/>
+  <img src="meow.gif" width="600"/>
 </p>
 
 <h2 align="center">👩‍💻 About me: </h2>
